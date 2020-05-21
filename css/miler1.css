@@ -1,0 +1,25 @@
+label{
+    display: block;
+    float: left;
+    width: 150px;
+}
+body{
+    min-height: 100vh;
+    background-image: linear-gradient(110deg,#960e96, #259bca)
+}
+label{
+    font-style: italic;
+    color: beige;
+    position: center;
+    font-size: xx-large;
+}
+input{
+    position: center;
+}
+
+table{
+   text-emphasis: center;
+    }
+th,td{
+        align-content: center;
+    }
